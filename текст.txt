@@ -1,0 +1,1972 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>BARBER HOUSE -- Мужская парикмахерская</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- =========================
+         HEADER
+    ========================== -->
+
+    <header class="header">
+
+        <div class="container header-inner">
+
+            <a href="#home" class="logo">
+                BARBER<span>HOUSE</span>
+            </a>
+
+            <nav class="nav">
+
+                <a href="#home">Главная</a>
+                <a href="#about">О нас</a>
+                <a href="#services">Услуги</a>
+                <a href="#masters">Мастера</a>
+                <a href="#prices">Цены</a>
+                <a href="#booking">Запись</a>
+                <a href="#contacts">Контакты</a>
+
+            </nav>
+
+            <button class="menu-button" type="button">
+                ☰
+            </button>
+
+        </div>
+
+    </header>
+
+
+    <main>
+
+        <!-- =========================
+             HERO
+        ========================== -->
+
+        <section class="hero" id="home">
+
+            <div class="container hero-content">
+
+                <p class="hero-label">
+                    BARBER HOUSE • ЗАВЬЯЛОВО
+                </p>
+
+                <h1>
+                    Твой стиль.<br>
+                    Твои правила.
+                </h1>
+
+                <p class="hero-text">
+                    Современная мужская парикмахерская,
+                    где классический стиль встречается
+                    с современным подходом.
+                </p>
+
+                <div class="hero-buttons">
+
+                    <a href="#booking" class="button">
+                        Записаться
+                    </a>
+
+                    <a href="#services" class="button button-outline">
+                        Наши услуги
+                    </a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             ABOUT
+        ========================== -->
+
+        <section class="section about" id="about">
+
+            <div class="container">
+
+                <div class="section-heading">
+
+                    <p>О НАС</p>
+
+                    <h2>
+                        Больше, чем просто стрижка
+                    </h2>
+
+                </div>
+
+                <div class="about-grid">
+
+                    <div class="about-text">
+
+                        <p>
+                            BARBER HOUSE -- место, где можно
+                            привести себя в порядок, расслабиться
+                            и получить именно тот стиль, который
+                            тебе подходит.
+                        </p>
+
+                        <p>
+                            Мы уделяем внимание деталям:
+                            от консультации перед стрижкой
+                            до финальной укладки.
+                        </p>
+
+                    </div>
+
+                    <div class="about-card">
+
+                        <span>01</span>
+
+                        <h3>
+                            Индивидуальный подход
+                        </h3>
+
+                        <p>
+                            Подбираем стрижку и стиль
+                            с учётом твоих пожеланий.
+                        </p>
+
+                    </div>
+
+                    <div class="about-card">
+
+                        <span>02</span>
+
+                        <h3>
+                            Опытные мастера
+                        </h3>
+
+                        <p>
+                            Работаем внимательно и
+                            аккуратно с каждым клиентом.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             SERVICES
+        ========================== -->
+
+        <section class="section services" id="services">
+
+            <div class="container">
+
+                <div class="section-heading">
+
+                    <p>УСЛУГИ</p>
+
+                    <h2>
+                        Что мы делаем
+                    </h2>
+
+                </div>
+
+                <div class="services-grid">
+
+                    <article class="service-card">
+
+                        <div class="service-number">
+                            01
+                        </div>
+
+                        <div class="service-icon">
+                            ✂
+                        </div>
+
+                        <h3>
+                            Мужская стрижка
+                        </h3>
+
+                        <p>
+                            Подбор формы, стрижка
+                            и аккуратная укладка.
+                        </p>
+
+                        <strong>
+                            от 1 200 ₽
+                        </strong>
+
+                    </article>
+
+
+                    <article class="service-card">
+
+                        <div class="service-number">
+                            02
+                        </div>
+
+                        <div class="service-icon">
+                            🪒
+                        </div>
+
+                        <h3>
+                            Оформление бороды
+                        </h3>
+
+                        <p>
+                            Коррекция формы и
+                            профессиональный уход.
+                        </p>
+
+                        <strong>
+                            от 700 ₽
+                        </strong>
+
+                    </article>
+
+
+                    <article class="service-card">
+
+                        <div class="service-number">
+                            03
+                        </div>
+
+                        <div class="service-icon">
+                            ★
+                        </div>
+
+                        <h3>
+                            Стрижка + борода
+                        </h3>
+
+                        <p>
+                            Комплексная услуга для
+                            полного обновления образа.
+                        </p>
+
+                        <strong>
+                            от 1 700 ₽
+                        </strong>
+
+                    </article>
+
+
+                    <article class="service-card">
+
+                        <div class="service-number">
+                            04
+                        </div>
+
+                        <div class="service-icon">
+                            👦
+                        </div>
+
+                        <h3>
+                            Детская стрижка
+                        </h3>
+
+                        <p>
+                            Аккуратная стрижка
+                            для юных клиентов.
+                        </p>
+
+                        <strong>
+                            от 900 ₽
+                        </strong>
+
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             MASTERS
+        ========================== -->
+
+        <section class="section masters" id="masters">
+
+            <div class="container">
+
+                <div class="section-heading">
+
+                    <p>КОМАНДА</p>
+
+                    <h2>
+                        Наши мастера
+                    </h2>
+
+                </div>
+
+                <div class="masters-grid">
+
+                    <article class="master-card">
+
+                        <div class="master-avatar">
+                            А
+                        </div>
+
+                        <div class="master-info">
+
+                            <p>BARBER</p>
+
+                            <h3>
+                                Алексей
+                            </h3>
+
+                            <span>
+                                Мужские стрижки • Fade
+                            </span>
+
+                        </div>
+
+                    </article>
+
+
+                    <article class="master-card">
+
+                        <div class="master-avatar">
+                            М
+                        </div>
+
+                        <div class="master-info">
+
+                            <p>BARBER</p>
+
+                            <h3>
+                                Максим
+                            </h3>
+
+                            <span>
+                                Стрижки • Борода
+                            </span>
+
+                        </div>
+
+                    </article>
+
+
+                    <article class="master-card">
+
+                        <div class="master-avatar">
+                            Д
+                        </div>
+
+                        <div class="master-info">
+
+                            <p>BARBER</p>
+
+                            <h3>
+                                Дмитрий
+                            </h3>
+
+                            <span>
+                                Классический стиль
+                            </span>
+
+                        </div>
+
+                    </article>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             PRICES
+        ========================== -->
+
+        <section class="section prices" id="prices">
+
+            <div class="container">
+
+                <div class="section-heading">
+
+                    <p>ПРАЙС</p>
+
+                    <h2>
+                        Цены
+                    </h2>
+
+                </div>
+
+                <div class="price-list">
+
+                    <div class="price-item">
+
+                        <div>
+                            <h3>Мужская стрижка</h3>
+                            <p>Консультация + стрижка + укладка</p>
+                        </div>
+
+                        <strong>
+                            1 200 ₽
+                        </strong>
+
+                    </div>
+
+
+                    <div class="price-item">
+
+                        <div>
+                            <h3>Оформление бороды</h3>
+                            <p>Коррекция формы и уход</p>
+                        </div>
+
+                        <strong>
+                            700 ₽
+                        </strong>
+
+                    </div>
+
+
+                    <div class="price-item">
+
+                        <div>
+                            <h3>Стрижка + борода</h3>
+                            <p>Комплексная услуга</p>
+                        </div>
+
+                        <strong>
+                            1 700 ₽
+                        </strong>
+
+                    </div>
+
+
+                    <div class="price-item">
+
+                        <div>
+                            <h3>Детская стрижка</h3>
+                            <p>Для клиентов до 12 лет</p>
+                        </div>
+
+                        <strong>
+                            900 ₽
+                        </strong>
+
+                    </div>
+
+
+                    <div class="price-item">
+
+                        <div>
+                            <h3>Укладка</h3>
+                            <p>Финальная укладка и стайлинг</p>
+                        </div>
+
+                        <strong>
+                            500 ₽
+                        </strong>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             ADVANTAGES
+        ========================== -->
+
+        <section class="section advantages">
+
+            <div class="container">
+
+                <div class="section-heading">
+
+                    <p>ПОЧЕМУ МЫ</p>
+
+                    <h2>
+                        Наш подход
+                    </h2>
+
+                </div>
+
+                <div class="advantages-grid">
+
+                    <div class="advantage">
+
+                        <span>01</span>
+
+                        <h3>
+                            Качество
+                        </h3>
+
+                        <p>
+                            Внимание к каждой детали
+                            во время работы.
+                        </p>
+
+                    </div>
+
+
+                    <div class="advantage">
+
+                        <span>02</span>
+
+                        <h3>
+                            Атмосфера
+                        </h3>
+
+                        <p>
+                            Уютное пространство без
+                            лишней суеты.
+                        </p>
+
+                    </div>
+
+
+                    <div class="advantage">
+
+                        <span>03</span>
+
+                        <h3>
+                            Стиль
+                        </h3>
+
+                        <p>
+                            Современные техники
+                            и классические решения.
+                        </p>
+
+                    </div>
+
+
+                    <div class="advantage">
+
+                        <span>04</span>
+
+                        <h3>
+                            Время
+                        </h3>
+
+                        <p>
+                            Ценим твоё время и стараемся
+                            работать по записи.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             BOOKING
+        ========================== -->
+
+        <section class="section booking" id="booking">
+
+            <div class="container">
+
+                <div class="section-heading">
+
+                    <p>ОНЛАЙН-ЗАПИСЬ</p>
+
+                    <h2>
+                        Записаться к мастеру
+                    </h2>
+
+                    <p class="heading-description">
+                        Оставьте заявку, и мы свяжемся
+                        с вами для подтверждения времени.
+                    </p>
+
+                </div>
+
+
+                <div class="booking-wrapper">
+
+                    <div class="booking-info">
+
+                        <span class="booking-big">
+                            24/7
+                        </span>
+
+                        <h3>
+                            Оставьте заявку
+                        </h3>
+
+                        <p>
+                            Выберите желаемую услугу,
+                            укажите свои данные и мы
+                            свяжемся с вами.
+                        </p>
+
+                        <div class="booking-feature">
+                            ✓ Быстрая связь
+                        </div>
+
+                        <div class="booking-feature">
+                            ✓ Удобная запись
+                        </div>
+
+                        <div class="booking-feature">
+                            ✓ Подтверждение визита
+                        </div>
+
+                    </div>
+
+
+                    <!-- ФОРМА -->
+
+                    <form
+                        id="bookingForm"
+                        action=""
+                        method="POST"
+                    >
+
+                        <div class="form-group">
+
+                            <label for="name">
+                                Ваше имя
+                            </label>
+
+                            <input
+                                type="text"
+                                id="name"
+                                name="name"
+                                placeholder="Например, Иван"
+                                required
+                            >
+
+                        </div>
+
+
+                        <div class="form-group">
+
+                            <label for="phone">
+                                Телефон
+                            </label>
+
+                            <input
+                                type="tel"
+                                id="phone"
+                                name="phone"
+                                placeholder="+7 (___) ___-__-__"
+                                required
+                            >
+
+                        </div>
+
+
+                        <div class="form-group">
+
+                            <label for="service">
+                                Услуга
+                            </label>
+
+                            <select
+                                id="service"
+                                name="service"
+                                required
+                            >
+
+                                <option value="">
+                                    Выберите услугу
+                                </option>
+
+                                <option value="Мужская стрижка">
+                                    Мужская стрижка
+                                </option>
+
+                                <option value="Оформление бороды">
+                                    Оформление бороды
+                                </option>
+
+                                <option value="Стрижка + борода">
+                                    Стрижка + борода
+                                </option>
+
+                                <option value="Детская стрижка">
+                                    Детская стрижка
+                                </option>
+
+                                <option value="Укладка">
+                                    Укладка
+                                </option>
+
+                            </select>
+
+                        </div>
+
+
+                        <div class="form-group">
+
+                            <label for="date">
+                                Желаемая дата
+                            </label>
+
+                            <input
+                                type="date"
+                                id="date"
+                                name="date"
+                                required
+                            >
+
+                        </div>
+
+
+                        <div class="form-group">
+
+                            <label for="comment">
+                                Комментарий
+                            </label>
+
+                            <textarea
+                                id="comment"
+                                name="comment"
+                                rows="4"
+                                placeholder="Например, удобнее вечером"
+                            ></textarea>
+
+                        </div>
+
+
+                        <input
+                            type="hidden"
+                            name="_subject"
+                            value="Новая запись -- BARBER HOUSE"
+                        >
+
+
+                        <button
+                            type="submit"
+                            class="booking-button"
+                        >
+                            Отправить заявку
+                        </button>
+
+
+                        <p class="form-note">
+                            После отправки заявки мы свяжемся
+                            с вами для подтверждения.
+                        </p>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             CONTACTS
+        ========================== -->
+
+        <section class="section contacts" id="contacts">
+
+            <div class="container">
+
+                <div class="section-heading">
+
+                    <p>КОНТАКТЫ</p>
+
+                    <h2>
+                        Как нас найти
+                    </h2>
+
+                </div>
+
+
+                <div class="contacts-grid">
+
+                    <div class="contact-card">
+
+                        <span>📍</span>
+
+                        <h3>
+                            Адрес
+                        </h3>
+
+                        <p>
+                            Завьялово,<br>
+                            Удмуртская Республика
+                        </p>
+
+                    </div>
+
+
+                    <div class="contact-card">
+
+                        <span>📞</span>
+
+                        <h3>
+                            Телефон
+                        </h3>
+
+                        <p>
+                            +7 (900) 000-00-00
+                        </p>
+
+                    </div>
+
+
+                    <div class="contact-card">
+
+                        <span>✉</span>
+
+                        <h3>
+                            Email
+                        </h3>
+
+                        <p>
+                            demo@example.com
+                        </p>
+
+                    </div>
+
+
+                    <div class="contact-card">
+
+                        <span>🕐</span>
+
+                        <h3>
+                            Режим работы
+                        </h3>
+
+                        <p>
+                            Пн–Вс<br>
+                            10:00–21:00
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- =========================
+         FOOTER
+    ========================== -->
+
+    <footer class="footer">
+
+        <div class="container">
+
+            <div class="footer-top">
+
+                <div>
+
+                    <a href="#home" class="logo">
+                        BARBER<span>HOUSE</span>
+                    </a>
+
+                    <p>
+                        Мужская парикмахерская
+                    </p>
+
+                </div>
+
+
+                <div class="footer-links">
+
+                    <a href="#services">
+                        Услуги
+                    </a>
+
+                    <a href="#prices">
+                        Цены
+                    </a>
+
+                    <a href="#booking">
+                        Запись
+                    </a>
+
+                    <a href="#contacts">
+                        Контакты
+                    </a>
+
+                </div>
+
+            </div>
+
+
+            <div class="footer-bottom">
+
+                <p>
+                    © 2026 BARBER HOUSE
+                </p>
+
+                <p>
+                    Демонстрационный проект
+                </p>
+
+            </div>
+
+
+            <div class="sho">
+                SHO
+            </div>
+
+        </div>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html><style>/* ========================================
+   ОСНОВНЫЕ НАСТРОЙКИ
+======================================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #111111;
+    color: #f5f5f5;
+    line-height: 1.6;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+button,
+input,
+textarea,
+select {
+    font-family: inherit;
+}
+
+.container {
+    width: min(1180px, 92%);
+    margin: 0 auto;
+}
+
+.section {
+    padding: 110px 0;
+}
+
+
+/* ========================================
+   HEADER
+======================================== */
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+
+    background: rgba(17, 17, 17, 0.94);
+    backdrop-filter: blur(12px);
+
+    border-bottom: 1px solid #292929;
+}
+
+.header-inner {
+    min-height: 80px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+.logo span {
+    color: #c89b5b;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 26px;
+}
+
+.nav a {
+    font-size: 14px;
+    color: #cccccc;
+    transition: 0.25s;
+}
+
+.nav a:hover {
+    color: #c89b5b;
+}
+
+.menu-button {
+    display: none;
+
+    border: 1px solid #444;
+    background: transparent;
+    color: white;
+
+    padding: 8px 12px;
+    border-radius: 6px;
+
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+/* ========================================
+   HERO
+======================================== */
+
+.hero {
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+
+    position: relative;
+
+    background:
+        linear-gradient(
+            90deg,
+            rgba(0, 0, 0, 0.92),
+            rgba(0, 0, 0, 0.55)
+        ),
+        radial-gradient(
+            circle at 80% 30%,
+            #493b2a,
+            #111 50%
+        );
+}
+
+.hero-content {
+    padding-top: 80px;
+}
+
+.hero-label {
+    color: #c89b5b;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+
+.hero h1 {
+    max-width: 850px;
+
+    margin: 20px 0;
+
+    font-size: clamp(55px, 9vw, 110px);
+    line-height: 0.95;
+
+    text-transform: uppercase;
+    letter-spacing: -4px;
+}
+
+.hero-text {
+    max-width: 600px;
+
+    color: #bbbbbb;
+    font-size: 18px;
+}
+
+.hero-buttons {
+    margin-top: 35px;
+
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.button {
+    display: inline-block;
+
+    padding: 15px 27px;
+
+    background: #c89b5b;
+    color: #111;
+
+    font-weight: 800;
+
+    border: 1px solid #c89b5b;
+
+    transition: 0.25s;
+}
+
+.button:hover {
+    transform: translateY(-3px);
+}
+
+.button-outline {
+    background: transparent;
+    color: white;
+}
+
+.button-outline:hover {
+    background: #c89b5b;
+    color: #111;
+}
+
+
+/* ========================================
+   ЗАГОЛОВКИ
+======================================== */
+
+.section-heading {
+    margin-bottom: 55px;
+}
+
+.section-heading > p {
+    color: #c89b5b;
+
+    font-size: 12px;
+    font-weight: bold;
+
+    letter-spacing: 4px;
+}
+
+.section-heading h2 {
+    max-width: 750px;
+
+    margin-top: 12px;
+
+    font-size: clamp(38px, 6vw, 65px);
+    line-height: 1;
+
+    text-transform: uppercase;
+}
+
+.heading-description {
+    margin-top: 15px;
+    color: #999;
+}
+
+
+/* ========================================
+   ABOUT
+======================================== */
+
+.about {
+    background: #151515;
+}
+
+.about-grid {
+    display: grid;
+
+    grid-template-columns:
+        1.4fr
+        1fr
+        1fr;
+
+    gap: 25px;
+}
+
+.about-text {
+    padding-right: 30px;
+}
+
+.about-text p {
+    color: #aaaaaa;
+    margin-bottom: 20px;
+    font-size: 17px;
+}
+
+.about-card {
+    padding: 35px;
+
+    background: #1e1e1e;
+    border: 1px solid #2d2d2d;
+
+    transition: 0.3s;
+}
+
+.about-card:hover {
+    transform: translateY(-5px);
+    border-color: #c89b5b;
+}
+
+.about-card span {
+    color: #c89b5b;
+    font-weight: bold;
+}
+
+.about-card h3 {
+    margin: 35px 0 15px;
+    font-size: 23px;
+}
+
+.about-card p {
+    color: #999;
+}
+
+
+/* ========================================
+   SERVICES
+======================================== */
+
+.services {
+    background: #111;
+}
+
+.services-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(4, 1fr);
+
+    gap: 18px;
+}
+
+.service-card {
+    position: relative;
+
+    padding: 35px 25px;
+
+    background: #191919;
+    border: 1px solid #2b2b2b;
+
+    transition: 0.3s;
+}
+
+.service-card:hover {
+    transform: translateY(-7px);
+    border-color: #c89b5b;
+}
+
+.service-number {
+    position: absolute;
+
+    top: 18px;
+    right: 20px;
+
+    color: #555;
+
+    font-size: 12px;
+}
+
+.service-icon {
+    font-size: 38px;
+    margin-bottom: 25px;
+}
+
+.service-card h3 {
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+
+.service-card p {
+    color: #999;
+    font-size: 14px;
+    margin-bottom: 25px;
+}
+
+.service-card strong {
+    color: #c89b5b;
+}
+
+
+/* ========================================
+   MASTERS
+======================================== */
+
+.masters {
+    background: #151515;
+}
+
+.masters-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(3, 1fr);
+
+    gap: 20px;
+}
+
+.master-card {
+    min-height: 330px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    padding: 30px;
+
+    background:
+        linear-gradient(
+            180deg,
+            #252525,
+            #121212
+        );
+
+    border: 1px solid #2b2b2b;
+
+    transition: 0.3s;
+}
+
+.master-card:hover {
+    transform: translateY(-5px);
+    border-color: #c89b5b;
+}
+
+.master-avatar {
+    width: 100px;
+    height: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-bottom: auto;
+
+    border-radius: 50%;
+
+    background: #c89b5b;
+    color: #111;
+
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.master-info p {
+    color: #c89b5b;
+
+    font-size: 11px;
+    letter-spacing: 3px;
+}
+
+.master-info h3 {
+    margin: 5px 0;
+
+    font-size: 30px;
+}
+
+.master-info span {
+    color: #999;
+}
+
+
+/* ========================================
+   PRICES
+======================================== */
+
+.prices {
+    background: #111;
+}
+
+.price-list {
+    max-width: 900px;
+}
+
+.price-item {
+    padding: 25px 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 30px;
+
+    border-bottom: 1px solid #303030;
+}
+
+.price-item h3 {
+    font-size: 20px;
+}
+
+.price-item p {
+    color: #888;
+    font-size: 14px;
+}
+
+.price-item strong {
+    color: #c89b5b;
+    white-space: nowrap;
+    font-size: 20px;
+}
+
+
+/* ========================================
+   ADVANTAGES
+======================================== */
+
+.advantages {
+    background: #151515;
+}
+
+.advantages-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(4, 1fr);
+
+    gap: 20px;
+}
+
+.advantage {
+    padding: 30px;
+
+    border-left: 1px solid #444;
+}
+
+.advantage span {
+    color: #c89b5b;
+    font-size: 13px;
+}
+
+.advantage h3 {
+    margin: 25px 0 12px;
+    font-size: 24px;
+}
+
+.advantage p {
+    color: #999;
+}
+
+
+/* ========================================
+   BOOKING
+======================================== */
+
+.booking {
+    background: #111;
+}
+
+.booking-wrapper {
+    display: grid;
+
+    grid-template-columns:
+        0.8fr
+        1.2fr;
+
+    gap: 60px;
+
+    padding: 50px;
+
+    background: #191919;
+    border: 1px solid #2d2d2d;
+}
+
+.booking-big {
+    display: block;
+
+    color: #c89b5b;
+
+    font-size: 80px;
+    font-weight: 900;
+    line-height: 1;
+}
+
+.booking-info h3 {
+    margin: 20px 0 15px;
+
+    font-size: 32px;
+}
+
+.booking-info > p {
+    color: #999;
+    margin-bottom: 30px;
+}
+
+.booking-feature {
+    margin-top: 12px;
+    color: #ccc;
+}
+
+.booking-feature::first-letter {
+    color: #c89b5b;
+}
+
+
+/* ========================================
+   FORM
+======================================== */
+
+#bookingForm {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+.form-group label {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+    width: 100%;
+
+    padding: 15px;
+
+    background: #101010;
+    color: white;
+
+    border: 1px solid #363636;
+    border-radius: 4px;
+
+    outline: none;
+
+    font-size: 15px;
+
+    transition: 0.2s;
+}
+
+.form-group input:focus,
+.form-group textarea:focus,
+.form-group select:focus {
+    border-color: #c89b5b;
+}
+
+.form-group textarea {
+    resize: vertical;
+}
+
+.form-group select option {
+    background: #111;
+}
+
+.booking-button {
+    padding: 16px;
+
+    border: none;
+    border-radius: 4px;
+
+    background: #c89b5b;
+    color: #111;
+
+    font-size: 15px;
+    font-weight: 900;
+
+    cursor: pointer;
+
+    transition: 0.25s;
+}
+
+.booking-button:hover {
+    transform: translateY(-2px);
+}
+
+.booking-button:disabled {
+    opacity: 0.6;
+    cursor: wait;
+}
+
+.form-note {
+    color: #666;
+    font-size: 12px;
+}
+
+
+/* ========================================
+   CONTACTS
+======================================== */
+
+.contacts {
+    background: #151515;
+}
+
+.contacts-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(4, 1fr);
+
+    gap: 20px;
+}
+
+.contact-card {
+    padding: 30px;
+
+    background: #1c1c1c;
+    border: 1px solid #2b2b2b;
+}
+
+.contact-card > span {
+    font-size: 30px;
+}
+
+.contact-card h3 {
+    margin: 20px 0 8px;
+}
+
+.contact-card p {
+    color: #999;
+}
+
+
+/* ========================================
+   FOOTER
+======================================== */
+
+.footer {
+    padding: 60px 0 0;
+
+    background: #0b0b0b;
+}
+
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+
+    gap: 30px;
+
+    padding-bottom: 35px;
+
+    border-bottom: 1px solid #292929;
+}
+
+.footer-top p {
+    margin-top: 10px;
+    color: #777;
+}
+
+.footer-links {
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.footer-links a {
+    color: #aaa;
+    transition: 0.2s;
+}
+
+.footer-links a:hover {
+    color: #c89b5b;
+}
+
+.footer-bottom {
+    padding: 25px 0;
+
+    display: flex;
+    justify-content: space-between;
+
+    color: #666;
+
+    font-size: 13px;
+}
+
+.sho {
+    margin-top: 30px;
+
+    text-align: center;
+
+    font-size: clamp(100px, 25vw, 350px);
+    font-weight: 900;
+    line-height: 0.7;
+
+    color: #191919;
+
+    user-select: none;
+}
+
+
+/* ========================================
+   АДАПТИВ
+======================================== */
+
+@media (max-width: 1000px) {
+
+    .nav {
+        gap: 14px;
+    }
+
+    .services-grid,
+    .advantages-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .about-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .about-text {
+        grid-column: 1 / -1;
+    }
+
+    .contacts-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+
+@media (max-width: 800px) {
+
+    .nav {
+        display: none;
+
+        position: absolute;
+
+        top: 80px;
+        left: 0;
+
+        width: 100%;
+
+        padding: 25px;
+
+        flex-direction: column;
+        align-items: flex-start;
+
+        background: #111;
+
+        border-bottom: 1px solid #333;
+    }
+
+    .nav.active {
+        display: flex;
+    }
+
+    .menu-button {
+        display: block;
+    }
+
+    .hero h1 {
+        letter-spacing: -2px;
+    }
+
+    .booking-wrapper {
+        grid-template-columns: 1fr;
+        padding: 30px;
+    }
+
+    .masters-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+@media (max-width: 600px) {
+
+    .section {
+        padding: 80px 0;
+    }
+
+    .hero h1 {
+        font-size: 55px;
+    }
+
+    .hero-text {
+        font-size: 16px;
+    }
+
+    .services-grid,
+    .advantages-grid,
+    .contacts-grid,
+    .about-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .price-item {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .booking-wrapper {
+        padding: 22px;
+    }
+
+    .footer-top,
+    .footer-bottom {
+        flex-direction: column;
+    }
+
+}</style><script>// ========================================
+// МОБИЛЬНОЕ МЕНЮ
+// ========================================
+
+const menuButton = document.querySelector(".menu-button");
+const nav = document.querySelector(".nav");
+
+if (menuButton && nav) {
+
+    menuButton.addEventListener("click", () => {
+
+        nav.classList.toggle("active");
+
+    });
+
+}
+
+
+// ========================================
+// ЗАКРЫТИЕ МЕНЮ ПОСЛЕ ПЕРЕХОДА
+// ========================================
+
+const navLinks = document.querySelectorAll(".nav a");
+
+navLinks.forEach(link => {
+
+    link.addEventListener("click", () => {
+
+        if (nav) {
+            nav.classList.remove("active");
+        }
+
+    });
+
+});
+
+
+// ========================================
+// ПЛАВНАЯ ПРОКРУТКА
+// ========================================
+
+document.querySelectorAll('a[href^="#"]').forEach(link => {
+
+    link.addEventListener("click", function(event) {
+
+        const targetId = this.getAttribute("href");
+
+        if (!targetId || targetId === "#") {
+            return;
+        }
+
+        const target = document.querySelector(targetId);
+
+        if (target) {
+
+            event.preventDefault();
+
+            target.scrollIntoView({
+                behavior: "smooth",
+                block: "start"
+            });
+
+        }
+
+    });
+
+});
+
+
+// ========================================
+// АНИМАЦИЯ ПОЯВЛЕНИЯ
+// ========================================
+
+const animatedElements = document.querySelectorAll(
+    ".service-card, .master-card, .advantage, .contact-card, .about-card"
+);
+
+const observer = new IntersectionObserver(
+
+    (entries) => {
+
+        entries.forEach(entry => {
+
+            if (entry.isIntersecting) {
+
+                entry.target.classList.add("visible");
+
+                observer.unobserve(entry.target);
+
+            }
+
+        });
+
+    },
+
+    {
+        threshold: 0.15
+    }
+
+);
+
+
+animatedElements.forEach(element => {
+
+    observer.observe(element);
+
+});
+
+
+// ========================================
+// ФОРМА ЗАПИСИ
+// ========================================
+
+const bookingForm = document.getElementById("bookingForm");
+
+if (bookingForm) {
+
+    bookingForm.addEventListener("submit", () => {
+
+        const button = bookingForm.querySelector(
+            'button[type="submit"]'
+        );
+
+        if (button) {
+
+            button.disabled = true;
+
+            button.textContent = "Отправляем...";
+
+        }
+
+    });
+
+}
+
+
+// ========================================
+// НЕ ПОЗВОЛЯЕМ ВЫБРАТЬ ПРОШЕДШУЮ ДАТУ
+// ========================================
+
+const dateInput = document.getElementById("date");
+
+if (dateInput) {
+
+    const today = new Date();
+
+    const year = today.getFullYear();
+
+    const month = String(
+        today.getMonth() + 1
+    ).padStart(2, "0");
+
+    const day = String(
+        today.getDate()
+    ).padStart(2, "0");
+
+    const currentDate =
+        `${year}-${month}-${day}`;
+
+    dateInput.min = currentDate;
+
+}</script>
